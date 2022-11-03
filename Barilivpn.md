@@ -1,5 +1,5 @@
 {
 "SendMessage":5,
 "MyMessage":
-"Support our VPN Via Addtime Thanks 🙏😊"
+"Support our bariliVPN guys Via Addtime Thanks 🙏😊"
 }
